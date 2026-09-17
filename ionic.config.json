@@ -1,0 +1,7 @@
+{
+  "name": "SportBuddy",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
